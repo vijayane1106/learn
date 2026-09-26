@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "usr_superuser_1",
+      "name": "Super User Admin",
+      "username": "vijay1",
+      "passwordHash": "vijay@12",
+      "phone": "9790425634",
+      "role": "superuser",
+      "createdAt": "2026-09-23T07:22:03.000Z"
+    }
+  ],
+  "mcqs": [],
+  "reports": [],
+  "auditLogs": [
+    {
+      "id": "log_1790175492802_pufk",
+      "timestamp": "2026-09-23T14:58:12.802Z",
+      "category": "teacher_manage",
+      "actor": "Super User",
+      "details": "Removed Teacher: Praveen Kumar M.Sc (praveen1)"
+    },
+    {
+      "id": "log_1790175489039_83hi",
+      "timestamp": "2026-09-23T14:58:09.039Z",
+      "category": "teacher_manage",
+      "actor": "Super User",
+      "details": "Updated Teacher: Praveen Kumar M.Sc (praveen1)"
+    },
+    {
+      "id": "log_1790175485542_iqfp",
+      "timestamp": "2026-09-23T14:58:05.542Z",
+      "category": "teacher_manage",
+      "actor": "Super User",
+      "details": "Added Teacher: Praveen Kumar (praveen1)"
+    }
+  ]
+}

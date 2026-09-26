@@ -1,0 +1,6 @@
+{
+  "name": "SMART LEARN",
+  "description": "Next-Gen 4D Interactive MCQ Assessment & Live Real-Time Quiz Platform for Teachers and Students with instant live leaderboards and proctoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
